@@ -1,4 +1,4 @@
-var audio = new Audio("https://vincent1403.github.io/Sounds/fall_in_love.mp3");
+var audio = new Audio("https://vincent1403.github.io/Sounds/highway_to_hell.mp3");
 
 $('#play-pause-button').on("click",function(){
   if($(this).hasClass('fa-play'))
